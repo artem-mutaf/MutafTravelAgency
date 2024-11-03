@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MutafTravelAgency1.props" />
+</Project>
