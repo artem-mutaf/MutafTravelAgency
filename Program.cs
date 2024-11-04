@@ -26,3 +26,5 @@ app.MapControllerRoute(
 
 app.Run();
 Console.Write("Привет");
+Console.Write("Салам");
+Console.Write("Пока");

@@ -28,3 +28,4 @@ D:\RiderProjects\MutafTravelAgency1\obj\Debug\net8.0\refint\MutafTravelAgency1.d
 D:\RiderProjects\MutafTravelAgency1\obj\Debug\net8.0\MutafTravelAgency1.pdb
 D:\RiderProjects\MutafTravelAgency1\obj\Debug\net8.0\MutafTravelAgency1.genruntimeconfig.cache
 D:\RiderProjects\MutafTravelAgency1\obj\Debug\net8.0\ref\MutafTravelAgency1.dll
+D:\RiderProjects\MutafTravelAgency1\obj\Debug\net8.0\MutafTravelAgency1.sourcelink.json
